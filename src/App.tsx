@@ -265,7 +265,7 @@ function App() {
               <div className="space-y-4">
                 <div className="flex items-center space-x-4">
                   <Phone className="w-6 h-6 text-blue-400" />
-                  <span>+33 (0)1 23 45 67 89</span>
+                  <span>+1 (438) 356-7757</span>
                 </div>
                 <div className="flex items-center space-x-4">
                   <Mail className="w-6 h-6 text-blue-400" />
@@ -273,7 +273,7 @@ function App() {
                 </div>
                 <div className="flex items-center space-x-4">
                   <MapPin className="w-6 h-6 text-blue-400" />
-                  <span>123 Avenue des Champs-Élysées, 75008 Paris</span>
+                  <span>2184 Rue de Maricourt, Montreal CANADA</span>
                 </div>
               </div>
             </div>
